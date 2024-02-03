@@ -74,7 +74,7 @@ setuptools.setup(
         "appdirs == 1.4.4",
         "packaging == 20.4",
         "smbus2 == 0.3.0",
-        "starlette == 0.13.6",
+        "starlette == 0.27.0",
         "fastapi == 0.63.0",
         "uvicorn == 0.13.4",
         "python-multipart == 0.0.5",
