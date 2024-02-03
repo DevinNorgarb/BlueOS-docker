@@ -42,7 +42,7 @@ setuptools.setup(
     description="Wifi manager for wpa_supplicant",
     license="MIT",
     install_requires=[
-        "starlette == 0.13.6",
+        "starlette == 0.27.0",
         "fastapi == 0.63.0",
         "uvicorn == 0.13.4",
         "aiofiles == 0.6.0",
